@@ -1,2 +1,2 @@
 # blockchain-training-labs
-Mandatory and Optional Hyperledger
+Mandatory and Optional Hyperledger Fabric
